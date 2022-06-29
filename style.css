@@ -52,9 +52,9 @@ img{
         grid-template-columns: 100%;
         grid-template-areas: 
         "header"
-        "sidenav"
-        "content"
         "anuncios"
+        "content"
+        "sidenav"
         "footer"
         ;
     }
